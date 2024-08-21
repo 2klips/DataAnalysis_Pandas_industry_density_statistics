@@ -15,3 +15,15 @@
 
 - 서울시를 특정하여 데이터 전처리
 - 업종별 밀집도 데이터 시각화 및 Map & Marker 시각화
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c17e5cb8-4660-4c40-b88f-a740af5c2ecd)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/81e07b3b-1e21-4576-8f3f-7f81c3f6ff54)
+
+
